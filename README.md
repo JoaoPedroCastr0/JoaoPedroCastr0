@@ -25,6 +25,7 @@ Desenvolvedor focado em criar soluções robustas e escaláveis. Domino desde o 
 
 ![Node.JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
@@ -41,17 +42,25 @@ Desenvolvedor focado em criar soluções robustas e escaláveis. Domino desde o 
 
 ---
 
-### 🛠️ Infraestrutura, Ferramentas & QA
+### 🧪 Testes & Qualidade de Software
+*Validação de regras de negócio e confiabilidade com testes automatizados.*
+
+![Jest](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testes Unitários](https://img.shields.io/badge/testes_unit%C3%A1rios-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testes E2E](https://img.shields.io/badge/testes_e2e-%2399425B?style=for-the-badge&logo=jest&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
+---
+
+### 🛠️ Infraestrutura & Ferramentas
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
-
 
 ### 📫 Contato
 
