@@ -2,7 +2,7 @@
 
 Desenvolvedor Fullstack 
 
-Desenvolvedor focado em criar soluções robustas e escaláveis. Domino desde o desenvolvimento web tradicional e mobile híbrido até arquiteturas modernas de backend com foco em performance e escalabilidade. 
+Desenvolvedor focado em criar soluções robustas e escaláveis. Domino desde o desenvolvimento web tradicional e mobile híbrido até arquiteturas modernas de backend com foco em performance. 
 
 ---
 
